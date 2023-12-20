@@ -5,10 +5,6 @@
 
 
 
-#EXTINF:-1 group-title="Bangladesh",Gaan Bangla
-http://100.100.100.10/hls/stream33.m3u8
-#EXTINF:-1 group-title="Bangladesh",Green TV
-http://bd.jagobd.com:1931/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh",Bangla 21 TV
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 ,NANDAN Official
