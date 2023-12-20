@@ -3,58 +3,6 @@
 #EXTINF:-1, eamintalukdar@gmail.com
 #EXTINF:-1, Facebook: https://facebook.com/eamintalukdar.rony
 
-
-#EXTINF:-1 group-title="Sports",Star Sports
-http://100.100.100.10/hls/stream01.m3u8
-#EXTINF:-1 group-title="Sports",Sports 18
-http://100.100.100.10/hls/stream02.m3u8
-
-
-
-#EXTM3U
-
-
-#EXT-X-STREAM-INF:BANDWIDTH=2447970,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=1280x720,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1700834713/ei/OVlgZarUArGTvcAPvPysmA8/ip/34.93.118.10/id/YKdzxUd0pxE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr3---sn-pjjoxu-q5j6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f9Kt5_XpaAQEVIZRay-2iP8bvcuKOaBGXUakRw/vprv/1/playlist_type/DVR/initcwndbps/508750/mh/HH/mip/103.135.132.162/mm/44/mn/sn-pjjoxu-q5j6/ms/lva/mv/m/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1700814026/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIhAORp2kAJmLAHBPrHGt57FcB8LqBsJ2I6sEVpMToRLoJgAiB6pT8pZAoCAPcuEB-O7Ri79esRzZN-sCCfz-urwlf_qg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAP87a6LcR8i_t_FRHtw2tVIESVTWJom58aCUgIpzUt0SAiEA5xfV5QDh2Fw_C6V0KWRDo3-Tj0UBfQyH5EN09ojy06Y%3D/playlist/N Tv
-
-#EXTINF:-1 group-title="Bangladesh", Movie Bangla 
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh", NRB TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/maasranga.jpg",Maasranga
-http://103.141.2.37:25461/live/web/web/596.m3u8
-#EXTINF:-1 group-title="Bangladesh",ATN Bangla
-http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",Banglavision HD
-http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",EKUSHEY TV HD
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangladesh",Asian TV
-http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",Somoy TV
-http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",Channel 24 HD
-http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",News 24 HD
-http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",DBC News
-http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",R Tv
-http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",Boishakhi TV
-http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",Jamuna TV
-http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",JagoNews24 Tv
-http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",Independent TV
-http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",Channel 9
-http://10.16.100.206:8080/hls/channel9.m3u8
-#EXTINF:-1 group-title="Bangladesh",Channel I
-http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladesh",Deepto TV
-https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladesh",BTV World
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 group-title="Bangladesh", Duronto
