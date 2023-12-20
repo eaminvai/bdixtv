@@ -3,9 +3,7 @@
 #EXTINF:-1, eamintalukdar@gmail.com
 #EXTINF:-1, Facebook: https://facebook.com/eamintalukdar.rony
 
-#EXTINF:-1 group-title="Bangladesh",BTV World
-http://103.230.105.252:1935/live/btv/manifest.m3u8
-#EXTINF:-1 group-title="Bangladesh", Duronto
+
 http://otv.ftpbd.net:8082/Duronto-Tv-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh",কুমিল্লা-টিভি
 http://103.149.142.133/0.m3u8
